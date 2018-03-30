@@ -1,0 +1,8 @@
+com\airbnb\utils\PropertyReader.class
+com\airbnb\data\SearchDataProvider.class
+com\airbnb\pageObject\components\home\HolidayPlacesRentalPage.class
+com\airbnb\pageObject\components\home\SearchRegionPage.class
+com\airbnb\pageObject\components\airbnb\Homes.class
+com\airbnb\utils\SeleniumHelper.class
+com\airbnb\components\searchAndFilter\SearchCityWithPriceFilter.class
+com\airbnb\base\BaseTest.class
